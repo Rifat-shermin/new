@@ -1,0 +1,12 @@
+div{
+    background-color: tomato;
+    border: 10px solid brown;
+    margin-top: 5px ;
+}
+
+
+h2{
+    background-image: url(pic/Bd.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
